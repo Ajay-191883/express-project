@@ -1,0 +1,1 @@
+This is simple project showing how Express works with Node JS.
